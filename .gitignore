@@ -1,0 +1,16 @@
+# 运行时数据（个人流量记录，不入库）
+data/
+
+# 构建中间产物
+*.exe
+*.pdb
+app.ico
+genico.cs
+genico.exe
+_dpi.log
+_shot.png
+
+# 编辑器 / 系统文件
+.vs/
+.vscode/
+Thumbs.db
